@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    padding:0;
+
+}
+.my-box {
+    background-color: blue;
+    height:100px;
+}
+
+.my-box div {
+    background-color: yellow;
+    height:80px;
+    margin-top:10px;
+
+}
+
+.my-box .div-2 {
+    background-color: red;
+}
+
+.my-box .div-3 {
+    background-color:blueviolet;
+}
